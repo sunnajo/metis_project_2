@@ -1,4 +1,4 @@
-**Predicting User Score/Rating of a Hip Hop Album**
+## **Predicting User Score/Rating of a Hip Hop Album**
 
 *Description:*
 
